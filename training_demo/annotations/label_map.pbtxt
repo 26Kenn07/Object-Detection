@@ -1,0 +1,29 @@
+item {
+    id: 1
+    name: 'Circle'
+}
+
+item {
+    id: 2
+    name: 'Rectangle'
+}
+
+item {
+    id: 3
+    name: 'Triangle'
+}
+
+item {
+    id: 4
+    name: 'Square'
+}
+
+item {
+    id: 5
+    name: 'Dimond'
+}
+
+item {
+    id: 6
+    name: 'Hexagone'
+}
